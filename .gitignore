@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+.pip-tmp/
+expenses.db
